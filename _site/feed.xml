@@ -1,33 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>信计所</title>
+    <description>Do something wit IT.
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 Feb 2016 16:02:18 +0800</pubDate>
-    <lastBuildDate>Sun, 28 Feb 2016 16:02:18 +0800</lastBuildDate>
+    <pubDate>Sun, 28 Feb 2016 19:07:39 +0800</pubDate>
+    <lastBuildDate>Sun, 28 Feb 2016 19:07:39 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>《Web全栈工程师的自我修养》的几点总结</title>
+        <description>&lt;p&gt;在公司从事技术岗位，其本质上是一个商业行为，要么为企业节约成本，要么提高效益。从商业角度出发想问题，就不会陷入纯追求最新最酷技术的误区，而是会去思考如何使产品更人性化。在实现功能的同时，优化体验，使得用户满意。&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;如何成为全栈工程师和避免野生工程师？一专多长，而非浅尝辄止，不停留在表面技能语法掌握上，深入了解原理，从而诸多技法也就有了源头，也能知其然知其所以然。如前端中的使网站更快更省资源，从HTTP原理去想，根本源头在于HTTP请求，所以如何减少请求，或者减少请求量。延伸出去的就是：合并css、图片；压缩源码文件和图片；选择合适的图片格式；使用CDN；开启服务器端的Gzip压缩；分开在不同域名存储静态资源；CSS放头部，js底部等。&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;如何赢得自己理想的职位？除了满足招聘信息外，你要知道满足条件的竞争者何其多，必须200%满足，并且释放尽量多的信号来表明自己是一个不能被错过的人才。比如就从简历开始，不用大路货的模版，利用自己优势另辟捷径。就算没有让人眼前一亮的学历，也能脱颖而出。&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;协同工作，当一个项目不再是一个人开发时，就必须上git等协同开发工具。传统的FTP，下载源码修改完再上传已经不能满足多人开发要求了。这也是野生程序员经常干的事儿，号称只能自己一个人开发，其实是没有协同体系，且代码改的太乱，也就是自己能看懂。&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;注意积累自己三方面：技术、成功、名望。积累自己的作品集，分享知识心得，开源代码自己能得到更多。&lt;/p&gt;
 </description>
-        <pubDate>Sun, 28 Feb 2016 16:01:33 +0800</pubDate>
+        <pubDate>Sun, 28 Feb 2016 18:46:38 +0800</pubDate>
         <link>http://yourdomain.com/jekyll/update/2016/02/28/welcome-to-jekyll.html</link>
         <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/02/28/welcome-to-jekyll.html</guid>
         
